@@ -116,7 +116,7 @@ from data import lab6
 ```
 Fungsi nya ini untuk menjalankan file library root nya yaitu dari folder bernama (data) untuk membuka file (lab6.py). Itu penjelasan singkatnya, kalau sudah langsung run aja tapi sebelum di run save dulu nanti kalau hilang nangis :v udah langsung skuy ajalah. Nanti akan jadi seperti di bawah ini.
 
-![Foto Lat1](https://github.com/HamdanAlWahidan/TUGAS_PERTEMUAN_10-LAB-6/blob/main/Pertemuan%2010%20LAB%206%20-%20SS/9.png) <br>
+![Gambar9](SS/9.png) <br>
 
 Cukup sekian tugas dari saya jika ada kesalahan saya mohon maaf yang sebesar besar.
 
